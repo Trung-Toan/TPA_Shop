@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/Models/Orders.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/Models/OrderDetails.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/Models/Products.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/Models/User.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/DAL/Process/MyOrder.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/Controllers/ProfileServlet.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/Validations/UploadFile.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/Controllers/Home.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/DAL/Process/DAOOrder.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/DAL/Admin/ManageAccount.java</file>
+            <file>file:/D:/SWP391_Project/SE1831_G2/TPA_Shop/src/java/Controllers/Cart.java</file>
+        </group>
+    </open-files>
+</project-private>

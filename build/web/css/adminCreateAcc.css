@@ -1,0 +1,52 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 13, 2024, 3:43:15 PM
+    Author     : xuxum
+*/
+
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.form-container h2 {
+    text-align: center;
+}
+.form-container table {
+    width: 100%;
+}
+.form-container table tr td {
+    padding: 10px 0;
+}
+.form-container input[type="text"],
+.form-container input[type="email"],
+.form-container input[type="password"],
+.form-container input[type="radio"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.form-container input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form-container input[type="submit"]:hover {
+    background-color: #45a049;
+}
+.alert {
+    color: red;
+    text-align: center;
+}
